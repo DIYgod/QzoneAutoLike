@@ -14,3 +14,7 @@ Giuem http://www.giuem.com/
 http://www.giuem.com/qzone-zan-php/
 
 http://www.anotherhome.net/1286
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/qzoneautolike/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
